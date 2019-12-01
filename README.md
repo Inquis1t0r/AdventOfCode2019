@@ -26,7 +26,7 @@ _dM_     _dMM_ YMMMMMM_     M       YMMMM9  _MM_  _MM_  YMMM9         YMMMM9   _
 
 | Day  | C#|Java   |Kotlin   |Swift  |Python   | C  |JavaScript   |
 |---|---|---|---|---|---|---|---|
-| 1 |   |   |   |   |   |   |   |
+| 1 | :heavy_check_mark: | :heavy_check_mark: |   |   |   |   |   |
 | 2 |   |   |   |   |   |   |   |
 | 3 |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |
